@@ -2,9 +2,6 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Kotlin](https://img.shields.io/badge/Kotlin-100%25-brightgreen)
 
-<b>Simple Yet A Feature Rich Music Player Application.</b></br>
-
-<b>Apk Link (Try it yourself & I would love to hear your feedback 🙂):<b>
  
 
 <b>Some ScreenShots(Actual App Even Looks Better 😃):</b></br>
@@ -40,6 +37,6 @@
 </ul>
 
   <br><br>
-  <b>Note:</b> This Project is Much More Improved (i.e. Contains New Features) & Optimized than Youtube Course Project.
+
   
  
